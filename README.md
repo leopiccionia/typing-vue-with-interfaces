@@ -1,6 +1,6 @@
 # Typing Vue with interfaces
 
-This is a simple demo about typing Vue interfaces using TypeScript interfaces for typing Vue `$refs`.
+This is a simple demo about typing Vue `$refs` using TypeScript interfaces.
 
 ## Project setup
 
